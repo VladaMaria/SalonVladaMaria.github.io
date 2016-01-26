@@ -1,0 +1,448 @@
+.version.________235_ /* version checker */
+{
+	color: #0000E9;
+	background-color: #84FA57;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/%d1%80%d0%b0%d0%b7%d0%bc%d1%8b%d1%82%d0%be%d0%b5.jpg") repeat left top;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1000px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu12863
+{
+	width: 0.01px;
+	padding-bottom: 90px;
+	margin-right: -10000px;
+	margin-left: -100px;
+}
+
+#u12863
+{
+	z-index: 5;
+	height: 90px;
+}
+
+#u12863-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 5;
+	top: 0px;
+}
+
+#u12867-4
+{
+	z-index: 16;
+	top: 9px;
+	left: 682px;
+}
+
+#pu12862-3
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: -100px;
+}
+
+#u12862-3
+{
+	z-index: 2;
+	width: 478px;
+	min-height: 30px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 671px;
+}
+
+#u12866
+{
+	z-index: 7;
+	height: 17px;
+	width: 81px;
+	top: 62px;
+	left: 748px;
+}
+
+#u12859
+{
+	z-index: 10;
+	top: 62px;
+	left: 828px;
+}
+
+#u12859_states
+{
+	height: 17px;
+	width: 81px;
+}
+
+#u12860
+{
+	z-index: 13;
+	top: 4px;
+	left: -18px;
+}
+
+#u12860_states
+{
+	height: 77px;
+	width: 232px;
+}
+
+#u12865,#u12865-bw
+{
+	z-index: 20;
+	height: 1912px;
+}
+
+#u12861
+{
+	z-index: 21;
+	width: 716px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 230px;
+}
+
+#u12861_position_content
+{
+	padding-bottom: 115px;
+}
+
+#u12864-4
+{
+	z-index: 22;
+	width: 25px;
+	min-height: 24px;
+	margin-left: 691px;
+}
+
+#pu3382-4
+{
+	width: 0.01px;
+	margin-left: 25px;
+	margin-top: 683px;
+}
+
+#u3382-4
+{
+	z-index: 26;
+	width: 540px;
+	min-height: 29px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: normal;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3383-4
+{
+	z-index: 30;
+	width: 101px;
+	min-height: 28px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 569px;
+}
+
+#u3410-3
+{
+	z-index: 69;
+	width: 668px;
+	min-height: 108px;
+	background-color: transparent;
+	margin-left: 27px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#slideshowu3384
+{
+	z-index: 34;
+	width: 0.01px;
+	height: 670px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 255px;
+}
+
+#u3400
+{
+	position: absolute;
+	width: 516px;
+	height: 662px;
+	background-color: transparent;
+	top: 4px;
+}
+
+#u3400popup
+{
+	z-index: 35;
+}
+
+#u3403
+{
+	z-index: 36;
+	width: 516px;
+	height: 662px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8704
+{
+	z-index: 38;
+	width: 516px;
+	height: 662px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8713
+{
+	z-index: 40;
+	width: 516px;
+	height: 662px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u3403_clip,#u8704_clip,#u8713_clip
+{
+	overflow: hidden;
+	width: 516px;
+	height: 662px;
+}
+
+#u3403_img,#u8704_img,#u8713_img
+{
+	margin-left: -3px;
+	margin-right: -3px;
+}
+
+#u3386
+{
+	position: absolute;
+	width: 149px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 4px;
+	left: 521px;
+}
+
+#u3386popup
+{
+	z-index: 42;
+}
+
+#u3387
+{
+	z-index: 43;
+	width: 140px;
+	height: 214px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 4px;
+}
+
+#u3387.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 140px;
+	height: 214px;
+	min-height: 0px;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u8707
+{
+	z-index: 45;
+	width: 140px;
+	height: 214px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 228px;
+	left: 4px;
+}
+
+#u8707.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 140px;
+	height: 214px;
+	min-height: 0px;
+	margin: 228px -10000px 0px 0px;
+}
+
+#u8716
+{
+	z-index: 47;
+	width: 140px;
+	height: 214px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 452px;
+	left: 4px;
+}
+
+#u8716.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 140px;
+	height: 214px;
+	min-height: 0px;
+	margin: 452px -10000px 0px 0px;
+}
+
+#u3387_clip,#u8707_clip,#u8716_clip
+{
+	overflow: hidden;
+	width: 140px;
+	height: 214px;
+}
+
+#u3387_img,#u8707_img,#u8716_img
+{
+	margin-left: -14px;
+	margin-right: -15px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u3409-20
+{
+	z-index: 49;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+	left: 256px;
+}
+
+#u3411
+{
+	z-index: 72;
+	width: 110px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 675px;
+	left: 651px;
+}
+
+#u3414
+{
+	z-index: 73;
+	width: 110px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/%d1%81%d0%be%d1%86.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3415
+{
+	z-index: 74;
+	width: 35px;
+	height: 35px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3413
+{
+	z-index: 75;
+	width: 35px;
+	height: 35px;
+	position: relative;
+	margin-right: -10000px;
+	left: 38px;
+}
+
+#u3412
+{
+	z-index: 76;
+	width: 35px;
+	height: 35px;
+	position: relative;
+	margin-right: -10000px;
+	left: 75px;
+}
+
+.ie #u3415,.ie #u3413,.ie #u3412
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

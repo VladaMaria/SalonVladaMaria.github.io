@@ -1,0 +1,68 @@
+#u12192:active
+{
+	background: url("../images/u12192-m.png") no-repeat 0px 0px;
+}
+
+#u12193:active #u12193_states
+{
+	background: url("../images/u12193_states-m.png") no-repeat 0px 0px;
+}
+
+#u12194_states
+{
+	vertical-align: top;
+	background: url("../images/u12194_states.png") no-repeat 0px 1px;
+}
+
+#u12194:hover #u12194_states
+{
+	background: url("../images/u12194_states-r.png") no-repeat 0px 1px;
+}
+
+#u12194:active #u12194_states
+{
+	background: url("../images/u12194_states-m.png") no-repeat 0px 0px;
+}
+
+#u12190-3
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u12192
+{
+	vertical-align: top;
+	position: fixed;
+	background: url("../images/u12192.png") no-repeat 0px 0px;
+}
+
+#u12194,#u12193
+{
+	position: fixed;
+}
+
+#u12193_states
+{
+	vertical-align: top;
+	background: url("../images/u12193_states.png") no-repeat 0px 0px;
+}
+
+#u12191
+{
+	background: -webkit-gradient(linear, left center, right center, from(#D5D5D5),color-stop(86%, #C4C4C4));
+	background: -webkit-linear-gradient(left,#D5D5D5 ,#C4C4C4 86%);
+	background: linear-gradient(to right,#D5D5D5 ,#C4C4C4 86%);
+	-pie-background: linear-gradient(left,#D5D5D5 ,#C4C4C4 86%);
+	border-style: none;
+	border-color: transparent;
+	background-size: 100% auto;
+}
+
+#u12195-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
