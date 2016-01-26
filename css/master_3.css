@@ -1,0 +1,94 @@
+#u12830:active
+{
+	background: url("../images/u12830-m.png") no-repeat 0px 0px;
+}
+
+#u12823:active #u12823_states
+{
+	background: url("../images/u12823_states-m.png") no-repeat 0px 0px;
+}
+
+#u12827
+{
+	background: -webkit-gradient(linear, left center, right center, from(#D5D5D5),color-stop(86%, #C4C4C4));
+	background: -webkit-linear-gradient(left,#D5D5D5 ,#C4C4C4 86%);
+	background: linear-gradient(to right,#D5D5D5 ,#C4C4C4 86%);
+	-pie-background: linear-gradient(left,#D5D5D5 ,#C4C4C4 86%);
+	border-style: none;
+	border-color: transparent;
+	background-size: 100% auto;
+}
+
+#u12831-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u12826-3
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u12830
+{
+	vertical-align: top;
+	position: fixed;
+	background: url("../images/u12830.png") no-repeat 0px 0px;
+}
+
+#u12823_states
+{
+	vertical-align: top;
+	background: url("../images/u12823_states.png") no-repeat 0px 0px;
+}
+
+#u12823,#u12824
+{
+	position: fixed;
+}
+
+#u12824_states
+{
+	vertical-align: top;
+	background: url("../images/u12824_states.png") no-repeat 0px 1px;
+}
+
+#u12824:hover #u12824_states
+{
+	background: url("../images/u12824_states-r.png") no-repeat 0px 1px;
+}
+
+#u12824:active #u12824_states
+{
+	background: url("../images/u12824_states-m.png") no-repeat 0px 0px;
+}
+
+#u12829
+{
+	background-color: #000000;
+	opacity: 0.69;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=69)";
+	filter: alpha(opacity=69);
+}
+
+#u12825
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u12828-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #7F7F7F;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
